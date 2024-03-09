@@ -1,1 +1,3 @@
 # friday
+
+- my first commit
