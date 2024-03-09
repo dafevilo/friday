@@ -2,4 +2,7 @@
 
 - My first commit (by Daniel)
 
-Second first commit (by Dario)
+- Second first commit (by Dario)
+
+- Third commit
+
